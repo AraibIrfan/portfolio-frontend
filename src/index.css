@@ -203,7 +203,7 @@ input{
 }
 
 
-@media screen and (max-width:781px) {
+@media screen and (max-width:400px) {
   .about{
     display: flex;
     justify-content: center;
@@ -223,6 +223,10 @@ input{
   }
   .text .roboto-condensed-text{
     font-size: 2rem;
+  }
+  .logo-container img{
+    height: 32px;
+    width: 32px;
   }
 
  /* .left{
