@@ -50,7 +50,7 @@ import JS from '../images/icons8-javascript-48.png';
 function Home({ ref }) {
   return (
   <>
-      <div className='container text ' id="home" ref={ref}>
+      <div className='container text' id="home" ref={ref}>
         <img src={image} alt='avatar' height='500px' />
         <h1 className='roboto-condensed-text'>Frontend Developer, Backend Developer & AI Enthusiast</h1>
         <h3 className='roboto-condensed-text'>It's what I do and it's what I love.</h3>

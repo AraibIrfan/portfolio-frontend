@@ -29,7 +29,7 @@ function Navbar({ scrollToSection, refs }) {
   return (
     <nav>
       <div className="container-fluid">
-        <div className="navbar">
+        <div className="container navbar ">
           <li>
             <NavLink 
               className='roboto-condensed-text  fw-lighter' 
