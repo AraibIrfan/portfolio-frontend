@@ -42,7 +42,6 @@ nav{
   align-items: center;
   gap: 2.5rem;
   padding: 2rem;
-  
 }
 h1,h3{
   color: rgb(255, 255, 255);
@@ -215,6 +214,8 @@ input{
   }
   .navbar{
     width: 100%;
+    padding: 1rem;
+    gap: 1rem;
   }
   .text img{
     width: 50%;
@@ -223,10 +224,7 @@ input{
   .text .roboto-condensed-text{
     font-size: 2rem;
   }
-  .logo-container .row .col-2{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
+
  /* .left{
   margin: 10px;
   padding: 10px;
